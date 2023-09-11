@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12345",
+        "cover_img": "https://img.freepik.com/free-vector/gradient-bim-horizontal-banner_23-2150244627.jpg?w=740&t=st=1694450350~exp=1694450950~hmac=b961732c6349c56ceed89e8274a51b0f08a127c2a7c68977bad44db93d03d8c1",
+        "title": "The Mystery of Midnight",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/rc2zTGm/boy1.png",
+        "posted_date": "2023-09-11",
+        "reading_time": 150,
+        "hash_tag": ["#Mystery", "#Suspense", "#Fiction"]
+    },
+    {
+        "id": "67890",
+        "cover_img": "https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-121207.jpg?w=826&t=st=1694450416~exp=1694451016~hmac=7f49713512cb89bac975568c7f03bd3713ee9924e88e16c6c71d3bf13d3e3376",
+        "title": "Exploring the Unknown",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/zGB2Kmh/boy2.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 180,
+        "hash_tag": ["#Adventure", "#Exploration", "#Discovery"]
+    },
+    {
+        "id": "23456",
+        "cover_img": "https://img.freepik.com/premium-photo/programming-languages-tech-purple-background-with-code-elements-lines-light_272306-166.jpg?w=826",
+        "title": "The Haunting Shadows",
+        "author": "Emily White",
+        "author_img": "https://i.ibb.co/rmx6NK9/girl1.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 120,
+        "hash_tag": ["#Horror", "#Mystery", "#Ghost"]
+    },
+    {
+        "id": "78901",
+        "cover_img": "https://img.freepik.com/premium-photo/concept-front-end-development-with-person-laptop_102583-4758.jpg?w=740",
+        "title": "Cooking Delights",
+        "author": "David Brown",
+        "author_img": "https://i.ibb.co/rmx6NK9/girl1.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": 90,
+        "hash_tag": ["#Cooking", "#Recipes", "#Culinary"]
+    },
+    {
+        "id": "34567",
+        "cover_img": "https://img.freepik.com/free-psd/geek-pride-day-banner-design_23-2148559506.jpg?w=740&t=st=1694450485~exp=1694451085~hmac=1e13a620098bf31b1c7ac7e8ba2e308b206bebc94155b97f62d10be775e7599e",
+        "title": "Nature's Beauty",
+        "author": "Sarah Davis",
+        "author_img": "https://i.ibb.co/5LCJtTG/profile.png",
+        "posted_date": "2023-09-07",
+        "reading_time": 135,
+        "hash_tag": ["#Nature", "#Beauty", "#Inspiration"]
+    }
+]
